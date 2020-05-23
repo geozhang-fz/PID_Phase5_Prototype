@@ -92,7 +92,7 @@
 
 * 籍合网个人主页：
 
-<img src="/Users/geozhang/Desktop/屏幕快照 2020-05-22 下午8.09.15.png" alt="屏幕快照 2020-05-22 下午8.09.15" style="zoom:50%;" />
+  ![屏幕快照 2020-05-22 下午8.09.15.png](https://i.loli.net/2020/05/23/2JxLDXoKavuncGt.png)
 
 * 第四阶段汇报word - 7.4.众包人员（审核人员）页面流程图
 
