@@ -109,8 +109,6 @@
 
 
 
-
-
 ## 5.其他独立页面 2 叶璐 张明轩
 
 ### 5.1.在线校勘/审核页面
@@ -119,19 +117,17 @@
 
  
 
-### 5.2.古籍任务大厅
+### 5.2.古籍任务大厅（查看可申领的任务）
 
 ![img](https://uploader.shimo.im/f/ngDOc3t2dPFyeIzX.png!thumbnail)
 
 
 
-### 5.3.查看可申领的任务
-
 ![img](https://uploader.shimo.im/f/IkZ0c4mZQVyCpnkg.png!thumbnail)
 
 
 
-### 5.4.个人主页
+### 5.3.个人主页
 
 古籍爱好者个人对外的主页，展示公开的项目。
 
@@ -139,5 +135,5 @@
 
 * 参考github的个人主页，包含【最近动态】【公开项目】等等：[例子](https://github.com/)
 
-### 5.5 支付页面
+### 5.4. 支付页面
 
